@@ -9,5 +9,4 @@
   </ul>
 </div>
 
-
-<img align="center" ![image](https://user-images.githubusercontent.com/63164361/208174602-91913c04-6fa6-4bae-a001-bb57e33cf8e7.png)>
+![image](https://user-images.githubusercontent.com/63164361/208174602-91913c04-6fa6-4bae-a001-bb57e33cf8e7.png)
