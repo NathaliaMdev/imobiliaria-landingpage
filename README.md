@@ -6,7 +6,6 @@
   
  <ul type="none">
         <li margin-bottom="15px">🟦O site possui 6 containers, essa divisão utilizando a div auxilia na organização do código em html.</li>
-        
         <li>🟦Para revisá-lo basta clicar no arquivo index.html e para visualizar a folha de estilo na pasta css e depois clicar em style.css.</li>
   </ul>
 
