@@ -1,4 +1,4 @@
-<h1 text-align="center">Imobiliaria santos 🏠</h1>
+<h1 align="center">Imobiliaria santos 🏠</h1>
 
 <h2><i>Essa é uma landing page de uma imobiliária fictícia para estudos práticos em HTML e CSS</i> </h2>
 
