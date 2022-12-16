@@ -1,6 +1,6 @@
 # Imobiliaria santos 🏠
 
-<h2>   *Essa é uma landing page de uma imobiliária fictícia para estudos práticos em HTML e CSS* </h2>
+<h2><i>Essa é uma landing page de uma imobiliária fictícia para estudos práticos em HTML e CSS</i> </h2>
 
 O site possui 6 containers, essa divisão utilizando a div auxilia na organização do código em html. 
 
